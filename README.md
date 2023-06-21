@@ -1,0 +1,3 @@
+  - Detect whether or not the laser is on the sensor
+  - Laser modules just require 5v (maybe they can operate on less?)
+  - It would be nice to have multiple detectors, like 4 or 5. In the end though, we just need to detect if the laser is broken at any point
